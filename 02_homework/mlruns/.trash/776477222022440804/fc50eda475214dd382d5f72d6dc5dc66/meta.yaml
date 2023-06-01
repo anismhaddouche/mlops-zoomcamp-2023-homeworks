@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/776477222022440804/fc50eda475214dd382d5f72d6dc5dc66/artifacts
+deleted_time: 1685648148038
+end_time: 1685647861014
+entry_point_name: ''
+experiment_id: '776477222022440804'
+lifecycle_stage: deleted
+run_id: fc50eda475214dd382d5f72d6dc5dc66
+run_name: intrigued-gnat-832
+run_uuid: fc50eda475214dd382d5f72d6dc5dc66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685647858969
+status: 3
+tags: []
+user_id: anis

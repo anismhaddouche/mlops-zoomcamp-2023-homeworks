@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/898932525925421267/4a6055f4858f44a1a166acc9ad61af8e/artifacts
+end_time: 1685648156795
+entry_point_name: ''
+experiment_id: '898932525925421267'
+lifecycle_stage: active
+run_id: 4a6055f4858f44a1a166acc9ad61af8e
+run_name: sassy-foal-416
+run_uuid: 4a6055f4858f44a1a166acc9ad61af8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685648153739
+status: 3
+tags: []
+user_id: anis

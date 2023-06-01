@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/529551148485506039/7cc729616c1949eb834a33032326683b/artifacts
+end_time: 1685647606376
+entry_point_name: ''
+experiment_id: '529551148485506039'
+lifecycle_stage: active
+run_id: 7cc729616c1949eb834a33032326683b
+run_name: rare-ant-389
+run_uuid: 7cc729616c1949eb834a33032326683b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685647606163
+status: 3
+tags: []
+user_id: anis

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/529551148485506039/40cbf11afc204230ae61bff4868b9097/artifacts
+end_time: 1685647606156
+entry_point_name: ''
+experiment_id: '529551148485506039'
+lifecycle_stage: active
+run_id: 40cbf11afc204230ae61bff4868b9097
+run_name: dapper-dolphin-999
+run_uuid: 40cbf11afc204230ae61bff4868b9097
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685647605631
+status: 3
+tags: []
+user_id: anis

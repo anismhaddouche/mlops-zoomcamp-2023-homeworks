@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/776477222022440804/115a06524d8149c2b66c00120cb22088/artifacts
+deleted_time: 1685648148038
+end_time: 1685647856382
+entry_point_name: ''
+experiment_id: '776477222022440804'
+lifecycle_stage: deleted
+run_id: 115a06524d8149c2b66c00120cb22088
+run_name: clean-crow-660
+run_uuid: 115a06524d8149c2b66c00120cb22088
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685647853704
+status: 3
+tags: []
+user_id: anis

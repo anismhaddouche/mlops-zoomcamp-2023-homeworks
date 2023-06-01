@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/776477222022440804/a73be86a199c412ebf4d9b1cd90aea09/artifacts
+deleted_time: 1685648148038
+end_time: 1685647853696
+entry_point_name: ''
+experiment_id: '776477222022440804'
+lifecycle_stage: deleted
+run_id: a73be86a199c412ebf4d9b1cd90aea09
+run_name: classy-snipe-257
+run_uuid: a73be86a199c412ebf4d9b1cd90aea09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685647850901
+status: 3
+tags: []
+user_id: anis

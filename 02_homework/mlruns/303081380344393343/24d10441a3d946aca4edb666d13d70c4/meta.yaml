@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/anis/Projects-Formations/MLOps-zoomcamp-2023/cohorts/2023/02-experiment-tracking/homework/mlruns/303081380344393343/24d10441a3d946aca4edb666d13d70c4/artifacts
+end_time: 1685647238521
+entry_point_name: ''
+experiment_id: '303081380344393343'
+lifecycle_stage: active
+run_id: 24d10441a3d946aca4edb666d13d70c4
+run_name: selective-midge-371
+run_uuid: 24d10441a3d946aca4edb666d13d70c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685647231545
+status: 3
+tags: []
+user_id: anis

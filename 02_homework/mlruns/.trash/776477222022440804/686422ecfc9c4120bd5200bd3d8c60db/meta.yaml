@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/776477222022440804/686422ecfc9c4120bd5200bd3d8c60db/artifacts
+deleted_time: 1685648148038
+end_time: 1685647863085
+entry_point_name: ''
+experiment_id: '776477222022440804'
+lifecycle_stage: deleted
+run_id: 686422ecfc9c4120bd5200bd3d8c60db
+run_name: tasteful-seal-539
+run_uuid: 686422ecfc9c4120bd5200bd3d8c60db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685647861022
+status: 3
+tags: []
+user_id: anis

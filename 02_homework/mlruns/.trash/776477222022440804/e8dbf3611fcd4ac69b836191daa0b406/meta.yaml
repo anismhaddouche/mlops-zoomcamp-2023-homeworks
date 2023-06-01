@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/776477222022440804/e8dbf3611fcd4ac69b836191daa0b406/artifacts
+deleted_time: 1685648148038
+end_time: 1685647858961
+entry_point_name: ''
+experiment_id: '776477222022440804'
+lifecycle_stage: deleted
+run_id: e8dbf3611fcd4ac69b836191daa0b406
+run_name: awesome-koi-659
+run_uuid: e8dbf3611fcd4ac69b836191daa0b406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685647856390
+status: 3
+tags: []
+user_id: anis

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/898932525925421267/463b8011499e48ef90d9fb3c92521fe8/artifacts
+end_time: 1685648162025
+entry_point_name: ''
+experiment_id: '898932525925421267'
+lifecycle_stage: active
+run_id: 463b8011499e48ef90d9fb3c92521fe8
+run_name: ambitious-ant-433
+run_uuid: 463b8011499e48ef90d9fb3c92521fe8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685648159479
+status: 3
+tags: []
+user_id: anis

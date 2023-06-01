@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/anis/Projects-Formations/MLOps-zoomcamp-2023/cohorts/2023/02-experiment-tracking/homework/mlruns/303081380344393343/457fba86c14642dc8f67b95b1df7da4d/artifacts
+end_time: 1685647181562
+entry_point_name: ''
+experiment_id: '303081380344393343'
+lifecycle_stage: active
+run_id: 457fba86c14642dc8f67b95b1df7da4d
+run_name: useful-vole-201
+run_uuid: 457fba86c14642dc8f67b95b1df7da4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685647174653
+status: 3
+tags: []
+user_id: anis

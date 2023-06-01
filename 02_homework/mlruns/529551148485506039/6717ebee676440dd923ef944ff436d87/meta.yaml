@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/529551148485506039/6717ebee676440dd923ef944ff436d87/artifacts
+end_time: 1685647604083
+entry_point_name: ''
+experiment_id: '529551148485506039'
+lifecycle_stage: active
+run_id: 6717ebee676440dd923ef944ff436d87
+run_name: peaceful-bee-485
+run_uuid: 6717ebee676440dd923ef944ff436d87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685647603931
+status: 3
+tags: []
+user_id: anis

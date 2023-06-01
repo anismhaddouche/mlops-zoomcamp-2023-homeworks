@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/898932525925421267/092c5a6122b54dda8b058dcfc5d05fe5/artifacts
+end_time: 1685648166159
+entry_point_name: ''
+experiment_id: '898932525925421267'
+lifecycle_stage: active
+run_id: 092c5a6122b54dda8b058dcfc5d05fe5
+run_name: chill-kite-590
+run_uuid: 092c5a6122b54dda8b058dcfc5d05fe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685648164076
+status: 3
+tags: []
+user_id: anis

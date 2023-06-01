@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/529551148485506039/246d119e21364f178fceb552cce39ae8/artifacts
+end_time: 1685647608175
+entry_point_name: ''
+experiment_id: '529551148485506039'
+lifecycle_stage: active
+run_id: 246d119e21364f178fceb552cce39ae8
+run_name: capable-lark-218
+run_uuid: 246d119e21364f178fceb552cce39ae8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685647608061
+status: 3
+tags: []
+user_id: anis

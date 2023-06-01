@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/529551148485506039/feb3cb65990945bd939052bc1b7a63f4/artifacts
+end_time: 1685647607496
+entry_point_name: ''
+experiment_id: '529551148485506039'
+lifecycle_stage: active
+run_id: feb3cb65990945bd939052bc1b7a63f4
+run_name: enthused-hound-891
+run_uuid: feb3cb65990945bd939052bc1b7a63f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685647607376
+status: 3
+tags: []
+user_id: anis

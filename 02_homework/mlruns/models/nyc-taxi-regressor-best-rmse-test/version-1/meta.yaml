@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1685647863139
+current_stage: None
+description: ''
+last_updated_timestamp: 1685647863139
+name: nyc-taxi-regressor-best-rmse-test
+run_id: 246d119e21364f178fceb552cce39ae8
+run_link: ''
+source: mlflow-artifacts:/529551148485506039/246d119e21364f178fceb552cce39ae8/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1
