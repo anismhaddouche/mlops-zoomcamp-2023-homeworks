@@ -1,0 +1,6 @@
+deployments:
+- name: deployment_03_homework 
+  entrypoint: /Users/anis/Projects-Formations/MLOps-zoomcamp-2023/anismhaddouche-homeworks/03_homework/3.4/orchestrate.py:main_flow
+  work_pool:
+    name: pool_03_homework
+    

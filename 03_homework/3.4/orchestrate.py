@@ -11,6 +11,7 @@ import xgboost as xgb
 from prefect import flow, task
 from prefect.artifacts import create_markdown_artifact
 from datetime import date
+from prefect_email import EmailServerCredentials,email_send_message
 
 
 @task(retries=3, retry_delay_seconds=2)
@@ -126,7 +127,21 @@ def train_best_model(
         )
     return None
 
+# @task()
+# def example_email_send_message_flow(email_addresses: List[str]):
+#     email_server_credentials = EmailServerCredentials.load("email")
+#     for email_address in email_addresses:
+#         subject = email_send_message.with_options(name=f"email {email_address}").submit(
+#             email_server_credentials=email_server_credentials,
+#             subject="Example Flow Notification using Gmail",
+#             msg="This proves email_send_message works!",
+#             email_to=email_address,
+#         )
 
+
+    
+    
+    
 @flow
 def main_flow(
     train_path: str = "/Users/anis/Projects-Formations/MLOps-zoomcamp-2023/03-orchestration/data/green_tripdata_2023-02.parquet",
@@ -147,6 +162,9 @@ def main_flow(
 
     # Train
     train_best_model(X_train, X_val, y_train, y_val, dv)
+    
+    # Notification email 
+    example_email_send_message_flow(["EMAIL-ADDRESS-PLACEHOLDER"])
 
 
 if __name__ == "__main__":
