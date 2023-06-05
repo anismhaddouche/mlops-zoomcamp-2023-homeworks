@@ -1,14 +1,15 @@
+
 import os
 import pickle
 import click
 import pandas as pd
-
 from sklearn.feature_extraction import DictVectorizer
 
 
 def dump_pickle(obj, filename: str):
     with open(filename, "wb") as f_out:
         return pickle.dump(obj, f_out)
+
 
 
 def read_dataframe(filename: str):
@@ -81,3 +82,5 @@ def run_data_prep(raw_data_path: str, dest_path: str, dataset: str = "green"):
 
 if __name__ == '__main__':
     run_data_prep()
+
+
