@@ -11,7 +11,7 @@ import xgboost as xgb
 from prefect import flow, task
 from prefect.artifacts import create_markdown_artifact
 from datetime import date
-from prefect_email import EmailServerCredentials,email_send_message
+# from prefect_email import EmailServerCredentials,email_send_message
 
 
 @task(retries=3, retry_delay_seconds=2)
@@ -138,8 +138,6 @@ def train_best_model(
 #             email_to=email_address,
 #         )
 
-
-    
     
     
 @flow
@@ -164,7 +162,6 @@ def main_flow(
     train_best_model(X_train, X_val, y_train, y_val, dv)
     
     # Notification email 
-    example_email_send_message_flow(["EMAIL-ADDRESS-PLACEHOLDER"])
 
 
 if __name__ == "__main__":
